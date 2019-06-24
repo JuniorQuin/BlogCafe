@@ -259,6 +259,8 @@ h4{
 }
 .formulario-contacto .campo label{
     flex: 0 0 8rem;
+    text-align: end;
+    margin-right: 1rem;
 }
 .formulario-contacto .campo input:not([type="submit"]),
 .formulario-contacto textarea{
